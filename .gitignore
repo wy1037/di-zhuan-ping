@@ -1,0 +1,22 @@
+# C# / .NET
+bin/
+obj/
+.vs/
+*.user
+*.suo
+packages
+
+# VSCode
+.vscode/
+
+# 日志、临时文件
+*.log
+*.tmp
+
+# 前端
+node_modules/
+dist/
+
+# 系统文件
+Thumbs.db
+.DS_Store
